@@ -1,0 +1,64 @@
+
+
+body {
+  background-color: yellow;
+}
+
+.jumbotron {
+  background-image: url("https://i.cbc.ca/1.4091922.1493471394!/fileImage/httpImage/image.png_gen/derivatives/16x9_620/wikipedia-logo.png");
+  text-align: center;
+  margin-top: 40px;
+}
+
+h2 {
+  background-color: black;
+  padding: 2%;
+  color: white;
+}
+
+#submit {
+  display: none;
+}
+
+
+#searchbar {
+  display: none;
+}
+
+#MR_title {
+  background-color: pink;
+  padding: 5%;
+  margin-bottom: 0px;
+}
+
+#MR_content {
+  background-color: purple;
+  padding: 5%;
+
+}
+
+p {
+  background-color: green;
+  padding: 5%;
+
+}
+
+h3 {
+  background-color: orange;
+  padding: 5%;
+  margin-bottom: 0px;
+}
+.result {
+  padding: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 5%;
+}
+
+.result_related {
+
+  padding: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 5%;
+}
